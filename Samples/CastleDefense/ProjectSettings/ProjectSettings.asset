@@ -25,7 +25,7 @@ PlayerSettings:
   m_MTRendering: 1
   m_MobileMTRendering: 1
   m_Stereoscopic3D: 0
-  iosShowActivityIndicatorOnLoading: -1
+  iosShowActivityIndicatorOnLoading: 0
   androidShowActivityIndicatorOnLoading: -1
   iosAppInBackgroundBehavior: 0
   displayResolutionDialog: 1
@@ -457,8 +457,12 @@ PlayerSettings:
   Android::RequireES31: 0
   Android::RequireES31AEP: 0
   XboxOne::enus: 1
-  stringPropertyNames: []
-  cloudProjectId: 
-  projectName: 
-  organizationId: 
+  stringPropertyNames:
+  - Build_ServiceEnabled::Build_ServiceEnabled
+  - UNet_ServiceEnabled::UNet_ServiceEnabled
+  Build_ServiceEnabled::Build_ServiceEnabled: False
+  UNet_ServiceEnabled::UNet_ServiceEnabled: True
+  cloudProjectId: 0544dd2e-868f-45b1-880d-7d0cfb37537d
+  projectName: Castle Defense
+  organizationId: freshnfunky
   cloudEnabled: 0
