@@ -3,7 +3,7 @@
 --- !u!29 &1
 SceneSettings:
   m_ObjectHideFlags: 0
-  m_PVSData: 
+  m_PVSData:
   m_PVSObjectsArray: []
   m_PVSPortalsArray: []
   m_OcclusionBakeSettings:
@@ -149,7 +149,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: 0fe94939cabc449d08866aae06290b20, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -228,7 +228,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: 2729e246c24104627b58e27fb291eac0, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -292,7 +292,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: de4ced00422ab4c19b5423a8b2143c8a, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -378,7 +378,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: 8ff48022f3c0b438fbf7cab8e602db84, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -455,7 +455,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: 17bb3b67f2ef440ae8ab943a6f864d07, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -540,15 +540,15 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 2300002, guid: 1e7d050d2d0e54e8e8175230d2dd9663, type: 3}
       propertyPath: m_Materials.Array.data[0]
-      value: 
+      value:
       objectReference: {fileID: 2100000, guid: 6a5463b440582408992846e1ee004808, type: 2}
     - target: {fileID: 2300000, guid: 1e7d050d2d0e54e8e8175230d2dd9663, type: 3}
       propertyPath: m_Materials.Array.data[0]
-      value: 
+      value:
       objectReference: {fileID: 2100000, guid: 6a5463b440582408992846e1ee004808, type: 2}
     - target: {fileID: 3300000, guid: 1e7d050d2d0e54e8e8175230d2dd9663, type: 3}
       propertyPath: m_Mesh
-      value: 
+      value:
       objectReference: {fileID: 4300002, guid: 1e7d050d2d0e54e8e8175230d2dd9663, type: 3}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 1e7d050d2d0e54e8e8175230d2dd9663, type: 3}
@@ -640,8 +640,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 37f1058aa7d2b4a07abd6974a215592a, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   entryTarget: {fileID: 58543764}
   exitTarget: {fileID: 58543764}
   invisible: 0
@@ -728,7 +728,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 2300000, guid: 9b36e8c27a5df46eebf6d9226c9689d4, type: 3}
       propertyPath: m_Materials.Array.data[0]
-      value: 
+      value:
       objectReference: {fileID: 2100000, guid: 6f625e4a310aa45c98c9abb97efc11e3, type: 2}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 9b36e8c27a5df46eebf6d9226c9689d4, type: 3}
@@ -795,7 +795,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: 17bb3b67f2ef440ae8ab943a6f864d07, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -851,7 +851,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 2300000, guid: 3bdef5cfb26f943d799bc1f76343a376, type: 3}
       propertyPath: m_Materials.Array.data[0]
-      value: 
+      value:
       objectReference: {fileID: 2100000, guid: 5f5cb0dc6501a4ed3a8096c2e80b556c, type: 2}
     - target: {fileID: 400000, guid: 3bdef5cfb26f943d799bc1f76343a376, type: 3}
       propertyPath: m_LocalScale.x
@@ -915,8 +915,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 37f1058aa7d2b4a07abd6974a215592a, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   entryTarget: {fileID: 76495960}
   exitTarget: {fileID: 76495960}
   invisible: 0
@@ -948,7 +948,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 10302, guid: 0000000000000000f000000000000000, type: 0}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -1049,7 +1049,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: 17bb3b67f2ef440ae8ab943a6f864d07, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -1106,7 +1106,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: de4ced00422ab4c19b5423a8b2143c8a, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -1146,8 +1146,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 280112ebebfac4d529223ad81ba9cbdb, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   blades: {fileID: 1615710220}
   whoosh: {fileID: 93684112}
 --- !u!82 &93684112
@@ -1286,7 +1286,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: 8ff48022f3c0b438fbf7cab8e602db84, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -1370,8 +1370,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: c3a009baa6dd649dca880e7bdd942261, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   orientationRoot: {fileID: 1738874071}
   spawnPoint: {fileID: 1204403190}
   menu: {fileID: 1611789936}
@@ -1482,8 +1482,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 37f1058aa7d2b4a07abd6974a215592a, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   entryTarget: {fileID: 114308890}
   exitTarget: {fileID: 114308890}
   invisible: 0
@@ -1515,7 +1515,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 10302, guid: 0000000000000000f000000000000000, type: 0}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -1578,7 +1578,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: e97d2dc813e6f49f79731fde0a7c662c, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -1641,7 +1641,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 2300000, guid: fe6270a37ad1e47688b05d7376645b0b, type: 3}
       propertyPath: m_Materials.Array.data[0]
-      value: 
+      value:
       objectReference: {fileID: 2100000, guid: de4ced00422ab4c19b5423a8b2143c8a, type: 2}
     - target: {fileID: 400000, guid: fe6270a37ad1e47688b05d7376645b0b, type: 3}
       propertyPath: m_LocalScale.y
@@ -1653,7 +1653,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 3300000, guid: fe6270a37ad1e47688b05d7376645b0b, type: 3}
       propertyPath: m_Mesh
-      value: 
+      value:
       objectReference: {fileID: 4300000, guid: ee0bb44ef36ae4d709b648eb1fe75480, type: 3}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: fe6270a37ad1e47688b05d7376645b0b, type: 3}
@@ -1729,7 +1729,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: 0ddc85e8f01824af88838bbc7e24e1d4, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -1915,7 +1915,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: 17bb3b67f2ef440ae8ab943a6f864d07, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -1972,7 +1972,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: de4ced00422ab4c19b5423a8b2143c8a, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -2042,7 +2042,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: 7736fda07f5934e619684152b1576146, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -2108,8 +2108,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 37f1058aa7d2b4a07abd6974a215592a, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   entryTarget: {fileID: 152868725}
   exitTarget: {fileID: 152868725}
   invisible: 0
@@ -2156,7 +2156,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 10302, guid: 0000000000000000f000000000000000, type: 0}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -2219,7 +2219,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 2300000, guid: 2b92127fa26424660b6772260920492f, type: 3}
       propertyPath: m_Materials.Array.data[0]
-      value: 
+      value:
       objectReference: {fileID: 2100000, guid: 6f5ea3e1f3a4045fcb924e9caf01878b, type: 2}
     - target: {fileID: 100000, guid: 2b92127fa26424660b6772260920492f, type: 3}
       propertyPath: m_IsActive
@@ -2282,7 +2282,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: de4ced00422ab4c19b5423a8b2143c8a, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -2367,7 +2367,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: 17bb3b67f2ef440ae8ab943a6f864d07, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -2425,8 +2425,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 37f1058aa7d2b4a07abd6974a215592a, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   entryTarget: {fileID: 162968483}
   exitTarget: {fileID: 162968483}
   invisible: 0
@@ -2458,7 +2458,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 10302, guid: 0000000000000000f000000000000000, type: 0}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -2531,7 +2531,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: 76016600cfc5443b8a686c34ed330863, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -2594,7 +2594,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 2089908, guid: 9a98786024a024a4dbac2dcfc4bb58fb, type: 2}
       propertyPath: m_TargetTexture
-      value: 
+      value:
       objectReference: {fileID: 755081160}
     - target: {fileID: 11489906, guid: 9a98786024a024a4dbac2dcfc4bb58fb, type: 2}
       propertyPath: hideFogInEditor
@@ -2966,7 +2966,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 11489906, guid: 9a98786024a024a4dbac2dcfc4bb58fb, type: 2}
       propertyPath: targetPoint
-      value: 
+      value:
       objectReference: {fileID: 1129533236}
     - target: {fileID: 11489906, guid: 9a98786024a024a4dbac2dcfc4bb58fb, type: 2}
       propertyPath: animatedRotation
@@ -3067,8 +3067,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 12ff4ed15e5104697a67a38a79670ee9, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   audioSource: {fileID: 181413393}
   meshRenderer: {fileID: 181413391}
   collider: {fileID: 181413390}
@@ -3082,8 +3082,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: a955b7e6c5a0c4f32a946b16c7f4d25c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   entryTarget: {fileID: 181413390}
   exitTarget: {fileID: 181413390}
   invisible: 0
@@ -3112,7 +3112,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: 4732a271aa7db495ebbefa11e6ab8858, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -3279,7 +3279,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 2300000, guid: fe6270a37ad1e47688b05d7376645b0b, type: 3}
       propertyPath: m_Materials.Array.data[0]
-      value: 
+      value:
       objectReference: {fileID: 2100000, guid: de4ced00422ab4c19b5423a8b2143c8a, type: 2}
     - target: {fileID: 400000, guid: fe6270a37ad1e47688b05d7376645b0b, type: 3}
       propertyPath: m_LocalScale.y
@@ -3338,8 +3338,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: efd5938cd202c48d993fa84c3a084752, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   lookDownElements:
   - text: {fileID: 1710631998}
     textTransform: {fileID: 1710631997}
@@ -3377,8 +3377,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: c94d52b492bf745b583ac80acb8c31a3, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   maxYaw: 12
   lockPitch: 0
   pitch: 35
@@ -3469,7 +3469,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: 39c7e5ea336864d66862b2679f71ce91, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -3532,7 +3532,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 2300000, guid: 3bdef5cfb26f943d799bc1f76343a376, type: 3}
       propertyPath: m_Materials.Array.data[0]
-      value: 
+      value:
       objectReference: {fileID: 2100000, guid: cc7ada923390c40aca21aedd614fe415, type: 2}
     - target: {fileID: 400000, guid: 3bdef5cfb26f943d799bc1f76343a376, type: 3}
       propertyPath: m_LocalScale.x
@@ -3594,7 +3594,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: 4e484155bfb774cbda87b7ad346e106a, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -3670,8 +3670,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: a955b7e6c5a0c4f32a946b16c7f4d25c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   entryTarget: {fileID: 221734523}
   exitTarget: {fileID: 221734523}
   invisible: 0
@@ -3712,8 +3712,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 12ff4ed15e5104697a67a38a79670ee9, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   audioSource: {fileID: 221734528}
   meshRenderer: {fileID: 221734526}
   collider: {fileID: 221734523}
@@ -3730,7 +3730,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: c72322d3e81414379aabe96ce21c900c, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -3867,8 +3867,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 496da61c3bba942aaac7b099b10a94cd, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   orientationRoot: {fileID: 222721396}
   spawnPoint: {fileID: 998066776}
   labs: {fileID: 721396105}
@@ -4043,7 +4043,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: 17bb3b67f2ef440ae8ab943a6f864d07, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -4176,7 +4176,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 2300000, guid: eebd5046c19914b749cc94d34acf61c2, type: 3}
       propertyPath: m_Materials.Array.data[0]
-      value: 
+      value:
       objectReference: {fileID: 2100000, guid: 8bb87290d9d074bc6a1261565145e3a5, type: 2}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: eebd5046c19914b749cc94d34acf61c2, type: 3}
@@ -4222,7 +4222,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 2300000, guid: 3bdef5cfb26f943d799bc1f76343a376, type: 3}
       propertyPath: m_Materials.Array.data[0]
-      value: 
+      value:
       objectReference: {fileID: 2100000, guid: 5f5cb0dc6501a4ed3a8096c2e80b556c, type: 2}
     - target: {fileID: 400000, guid: 3bdef5cfb26f943d799bc1f76343a376, type: 3}
       propertyPath: m_LocalScale.x
@@ -4307,11 +4307,11 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 3300000, guid: 1858996c5471f4337bf790109ca300ee, type: 3}
       propertyPath: m_Mesh
-      value: 
+      value:
       objectReference: {fileID: 4300000, guid: 1858996c5471f4337bf790109ca300ee, type: 3}
     - target: {fileID: 2300000, guid: 1858996c5471f4337bf790109ca300ee, type: 3}
       propertyPath: m_Materials.Array.data[0]
-      value: 
+      value:
       objectReference: {fileID: 2100000, guid: f6e1b7bf4d1734702953553add85ab43, type: 2}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 1858996c5471f4337bf790109ca300ee, type: 3}
@@ -4387,7 +4387,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: 29eb87b3fbc824cc7ac2114be86320ae, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -4451,7 +4451,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: 9ba9e5ace7d1548cfabd7e0863864a2a, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -4499,8 +4499,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 280112ebebfac4d529223ad81ba9cbdb, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   blades: {fileID: 609020662}
   whoosh: {fileID: 0}
 --- !u!1 &251935018
@@ -4543,8 +4543,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 47743757d3fbb4cfa95ca4a02bf03967, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   orientationRoot: {fileID: 1250953708}
   spawnPoint: {fileID: 0}
 --- !u!114 &254828944 stripped
@@ -4660,7 +4660,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: 39c7e5ea336864d66862b2679f71ce91, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -4744,7 +4744,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: 17bb3b67f2ef440ae8ab943a6f864d07, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -4827,7 +4827,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: 17bb3b67f2ef440ae8ab943a6f864d07, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -4884,7 +4884,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: 29eb87b3fbc824cc7ac2114be86320ae, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -5015,7 +5015,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: 17bb3b67f2ef440ae8ab943a6f864d07, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -5081,7 +5081,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: cfa9ba3df00ec44d697f5681e59e9716, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -5177,7 +5177,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: 8ff48022f3c0b438fbf7cab8e602db84, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -5324,7 +5324,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: 8ff48022f3c0b438fbf7cab8e602db84, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -5395,8 +5395,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: b354780a0db51499faa118516862b2b4, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   orientationRoot: {fileID: 353497822}
   spawnPoint: {fileID: 404007905}
   menu: {fileID: 2085088001}
@@ -5633,15 +5633,15 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 2300002, guid: 1e7d050d2d0e54e8e8175230d2dd9663, type: 3}
       propertyPath: m_Materials.Array.data[0]
-      value: 
+      value:
       objectReference: {fileID: 2100000, guid: 6a5463b440582408992846e1ee004808, type: 2}
     - target: {fileID: 2300000, guid: 1e7d050d2d0e54e8e8175230d2dd9663, type: 3}
       propertyPath: m_Materials.Array.data[0]
-      value: 
+      value:
       objectReference: {fileID: 2100000, guid: 6a5463b440582408992846e1ee004808, type: 2}
     - target: {fileID: 3300000, guid: 1e7d050d2d0e54e8e8175230d2dd9663, type: 3}
       propertyPath: m_Mesh
-      value: 
+      value:
       objectReference: {fileID: 4300002, guid: 1e7d050d2d0e54e8e8175230d2dd9663, type: 3}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 1e7d050d2d0e54e8e8175230d2dd9663, type: 3}
@@ -5722,8 +5722,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: c94d52b492bf745b583ac80acb8c31a3, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   maxYaw: 12
   lockPitch: 0
   pitch: 35
@@ -5738,8 +5738,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: efd5938cd202c48d993fa84c3a084752, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   lookDownElements:
   - text: {fileID: 64749593}
     textTransform: {fileID: 64749592}
@@ -5834,7 +5834,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: 17bb3b67f2ef440ae8ab943a6f864d07, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -5891,7 +5891,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: de4ced00422ab4c19b5423a8b2143c8a, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -5961,7 +5961,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: 2953c3bb2871f46ad9162d741e3538d1, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -6033,8 +6033,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 37f1058aa7d2b4a07abd6974a215592a, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   entryTarget: {fileID: 399850936}
   exitTarget: {fileID: 399850936}
   invisible: 0
@@ -6081,7 +6081,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 10302, guid: 0000000000000000f000000000000000, type: 0}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -6144,7 +6144,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: 1ce2f38da178649bd9ca54e9d1d3695a, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -6209,8 +6209,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 2e89d9e9320e8406589889b4689fba19, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   entryTarget: {fileID: 404007904}
   exitTarget: {fileID: 404007904}
   invisible: 0
@@ -6241,7 +6241,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: 9c0b74044b0f843cf98a1d102701c409, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -6321,8 +6321,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 37f1058aa7d2b4a07abd6974a215592a, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   entryTarget: {fileID: 405058039}
   exitTarget: {fileID: 405058039}
   invisible: 0
@@ -6369,7 +6369,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 10302, guid: 0000000000000000f000000000000000, type: 0}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -6465,7 +6465,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 2089908, guid: 9a98786024a024a4dbac2dcfc4bb58fb, type: 2}
       propertyPath: m_TargetTexture
-      value: 
+      value:
       objectReference: {fileID: 2104564280}
     - target: {fileID: 11489906, guid: 9a98786024a024a4dbac2dcfc4bb58fb, type: 2}
       propertyPath: hideFogInEditor
@@ -6861,7 +6861,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 11489906, guid: 9a98786024a024a4dbac2dcfc4bb58fb, type: 2}
       propertyPath: targetPoint
-      value: 
+      value:
       objectReference: {fileID: 748028328}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 9a98786024a024a4dbac2dcfc4bb58fb, type: 2}
@@ -7026,7 +7026,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: 17bb3b67f2ef440ae8ab943a6f864d07, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -7082,7 +7082,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: 81436ba1122f340c787779d4e7e99394, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -7150,7 +7150,7 @@ RenderTexture:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: 
+  m_Name:
   m_ImageContentsHash:
     serializedVersion: 2
     Hash: 00000000000000000000000000000000
@@ -7210,8 +7210,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 37f1058aa7d2b4a07abd6974a215592a, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   entryTarget: {fileID: 458319265}
   exitTarget: {fileID: 458319265}
   invisible: 0
@@ -7243,7 +7243,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 10302, guid: 0000000000000000f000000000000000, type: 0}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -7306,7 +7306,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 2300000, guid: fe6270a37ad1e47688b05d7376645b0b, type: 3}
       propertyPath: m_Materials.Array.data[0]
-      value: 
+      value:
       objectReference: {fileID: 2100000, guid: de4ced00422ab4c19b5423a8b2143c8a, type: 2}
     - target: {fileID: 400000, guid: fe6270a37ad1e47688b05d7376645b0b, type: 3}
       propertyPath: m_LocalScale.y
@@ -7418,15 +7418,15 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 2300002, guid: 1e7d050d2d0e54e8e8175230d2dd9663, type: 3}
       propertyPath: m_Materials.Array.data[0]
-      value: 
+      value:
       objectReference: {fileID: 2100000, guid: 6a5463b440582408992846e1ee004808, type: 2}
     - target: {fileID: 2300000, guid: 1e7d050d2d0e54e8e8175230d2dd9663, type: 3}
       propertyPath: m_Materials.Array.data[0]
-      value: 
+      value:
       objectReference: {fileID: 2100000, guid: 6a5463b440582408992846e1ee004808, type: 2}
     - target: {fileID: 3300000, guid: 1e7d050d2d0e54e8e8175230d2dd9663, type: 3}
       propertyPath: m_Mesh
-      value: 
+      value:
       objectReference: {fileID: 4300002, guid: 1e7d050d2d0e54e8e8175230d2dd9663, type: 3}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 1e7d050d2d0e54e8e8175230d2dd9663, type: 3}
@@ -7505,15 +7505,15 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 2300002, guid: 1e7d050d2d0e54e8e8175230d2dd9663, type: 3}
       propertyPath: m_Materials.Array.data[0]
-      value: 
+      value:
       objectReference: {fileID: 2100000, guid: 6a5463b440582408992846e1ee004808, type: 2}
     - target: {fileID: 2300000, guid: 1e7d050d2d0e54e8e8175230d2dd9663, type: 3}
       propertyPath: m_Materials.Array.data[0]
-      value: 
+      value:
       objectReference: {fileID: 2100000, guid: 6a5463b440582408992846e1ee004808, type: 2}
     - target: {fileID: 3300000, guid: 1e7d050d2d0e54e8e8175230d2dd9663, type: 3}
       propertyPath: m_Mesh
-      value: 
+      value:
       objectReference: {fileID: 4300002, guid: 1e7d050d2d0e54e8e8175230d2dd9663, type: 3}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 1e7d050d2d0e54e8e8175230d2dd9663, type: 3}
@@ -7559,8 +7559,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: e24b242dc50ef4a2197329fcdd75f19a, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   orientationRoot: {fileID: 1680626516}
   spawnPoint: {fileID: 254828944}
   menu: {fileID: 621145480}
@@ -7800,7 +7800,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: 8ff48022f3c0b438fbf7cab8e602db84, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -7877,7 +7877,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: 17bb3b67f2ef440ae8ab943a6f864d07, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -7991,7 +7991,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: 76016600cfc5443b8a686c34ed330863, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -8075,7 +8075,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: 17bb3b67f2ef440ae8ab943a6f864d07, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -8227,7 +8227,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: 17bb3b67f2ef440ae8ab943a6f864d07, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -8318,7 +8318,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: de4ced00422ab4c19b5423a8b2143c8a, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -8382,7 +8382,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 2300000, guid: ba5393476c6f94547b42204e6e936642, type: 3}
       propertyPath: m_Materials.Array.data[0]
-      value: 
+      value:
       objectReference: {fileID: 2100000, guid: df862f656b773468fb28fc71ab80ee09, type: 2}
     - target: {fileID: 400000, guid: ba5393476c6f94547b42204e6e936642, type: 3}
       propertyPath: m_LocalScale.x
@@ -8441,7 +8441,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: de4ced00422ab4c19b5423a8b2143c8a, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -8530,7 +8530,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: 8ff48022f3c0b438fbf7cab8e602db84, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -8594,8 +8594,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 37f1058aa7d2b4a07abd6974a215592a, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   entryTarget: {fileID: 551363900}
   exitTarget: {fileID: 551363900}
   invisible: 0
@@ -8627,7 +8627,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 10302, guid: 0000000000000000f000000000000000, type: 0}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -8690,7 +8690,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: bbb8d75ab81934ce5a6da4bbac218f9f, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -8754,7 +8754,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: de4ced00422ab4c19b5423a8b2143c8a, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -8830,7 +8830,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 2300000, guid: 9b36e8c27a5df46eebf6d9226c9689d4, type: 3}
       propertyPath: m_Materials.Array.data[0]
-      value: 
+      value:
       objectReference: {fileID: 2100000, guid: 6f625e4a310aa45c98c9abb97efc11e3, type: 2}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 9b36e8c27a5df46eebf6d9226c9689d4, type: 3}
@@ -8910,7 +8910,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: 93abfcc6878e3434eb785e1228b72db3, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -8974,7 +8974,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: de4ced00422ab4c19b5423a8b2143c8a, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -9057,8 +9057,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 12ff4ed15e5104697a67a38a79670ee9, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   audioSource: {fileID: 574626853}
   meshRenderer: {fileID: 574626851}
   collider: {fileID: 574626850}
@@ -9072,8 +9072,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: a955b7e6c5a0c4f32a946b16c7f4d25c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   entryTarget: {fileID: 574626850}
   exitTarget: {fileID: 574626850}
   invisible: 0
@@ -9102,7 +9102,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: 25439ca04a8aa4e04b857dc59c01d9ca, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -9216,8 +9216,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 280112ebebfac4d529223ad81ba9cbdb, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   blades: {fileID: 188882168}
   whoosh: {fileID: 0}
 --- !u!4 &577795290 stripped
@@ -9271,7 +9271,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: de4ced00422ab4c19b5423a8b2143c8a, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -9339,8 +9339,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: a955b7e6c5a0c4f32a946b16c7f4d25c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   entryTarget: {fileID: 581299658}
   exitTarget: {fileID: 581299658}
   invisible: 0
@@ -9381,8 +9381,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 12ff4ed15e5104697a67a38a79670ee9, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   audioSource: {fileID: 581299663}
   meshRenderer: {fileID: 581299661}
   collider: {fileID: 581299658}
@@ -9399,7 +9399,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: d65e8bd4dc4164014821bbff7f934950, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -9549,7 +9549,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 2300000, guid: 9b36e8c27a5df46eebf6d9226c9689d4, type: 3}
       propertyPath: m_Materials.Array.data[0]
-      value: 
+      value:
       objectReference: {fileID: 2100000, guid: 6f625e4a310aa45c98c9abb97efc11e3, type: 2}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 9b36e8c27a5df46eebf6d9226c9689d4, type: 3}
@@ -9616,7 +9616,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: cc9010ffc7eb144cd81f76d972590793, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -9672,7 +9672,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 2089908, guid: 9a98786024a024a4dbac2dcfc4bb58fb, type: 2}
       propertyPath: m_TargetTexture
-      value: 
+      value:
       objectReference: {fileID: 1821413079}
     - target: {fileID: 11489906, guid: 9a98786024a024a4dbac2dcfc4bb58fb, type: 2}
       propertyPath: hideFogInEditor
@@ -10169,8 +10169,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 37f1058aa7d2b4a07abd6974a215592a, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   entryTarget: {fileID: 621145481}
   exitTarget: {fileID: 621145481}
   invisible: 0
@@ -10202,7 +10202,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 10302, guid: 0000000000000000f000000000000000, type: 0}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -10309,8 +10309,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 280112ebebfac4d529223ad81ba9cbdb, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   blades: {fileID: 1365485870}
   whoosh: {fileID: 0}
 --- !u!114 &634691632 stripped
@@ -10427,7 +10427,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 2048610, guid: 90ba944c985dc414db7d897864f6d6b3, type: 2}
       propertyPath: m_TargetTexture
-      value: 
+      value:
       objectReference: {fileID: 1410097314}
     - target: {fileID: 159232, guid: 90ba944c985dc414db7d897864f6d6b3, type: 2}
       propertyPath: m_IsActive
@@ -10531,7 +10531,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 11448612, guid: 90ba944c985dc414db7d897864f6d6b3, type: 2}
       propertyPath: shadows
-      value: 
+      value:
       objectReference: {fileID: 392443377}
     - target: {fileID: 11448612, guid: 90ba944c985dc414db7d897864f6d6b3, type: 2}
       propertyPath: currentTime.shadowNearClip
@@ -10644,8 +10644,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 37f1058aa7d2b4a07abd6974a215592a, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   entryTarget: {fileID: 647818838}
   exitTarget: {fileID: 647818838}
   invisible: 0
@@ -10665,7 +10665,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 10302, guid: 0000000000000000f000000000000000, type: 0}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -10744,7 +10744,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: 7736fda07f5934e619684152b1576146, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -10807,7 +10807,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 2300000, guid: 3bdef5cfb26f943d799bc1f76343a376, type: 3}
       propertyPath: m_Materials.Array.data[0]
-      value: 
+      value:
       objectReference: {fileID: 2100000, guid: 03329bb3238454e48849098eec0f0337, type: 2}
     - target: {fileID: 400000, guid: 3bdef5cfb26f943d799bc1f76343a376, type: 3}
       propertyPath: m_LocalScale.x
@@ -10890,7 +10890,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: 17bb3b67f2ef440ae8ab943a6f864d07, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -10947,7 +10947,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: cfa9ba3df00ec44d697f5681e59e9716, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -11033,8 +11033,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 37f1058aa7d2b4a07abd6974a215592a, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   entryTarget: {fileID: 679372467}
   exitTarget: {fileID: 679372467}
   invisible: 0
@@ -11066,7 +11066,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 10302, guid: 0000000000000000f000000000000000, type: 0}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -11133,7 +11133,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 2300000, guid: a755ae00de3f84d64bc9fa0d7b6b255b, type: 3}
       propertyPath: m_Materials.Array.data[0]
-      value: 
+      value:
       objectReference: {fileID: 2100000, guid: 8bb87290d9d074bc6a1261565145e3a5, type: 2}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: a755ae00de3f84d64bc9fa0d7b6b255b, type: 3}
@@ -11182,8 +11182,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 37f1058aa7d2b4a07abd6974a215592a, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   entryTarget: {fileID: 686293464}
   exitTarget: {fileID: 686293464}
   invisible: 0
@@ -11230,7 +11230,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 10302, guid: 0000000000000000f000000000000000, type: 0}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -11362,7 +11362,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: 291eeda806ebe4965a4d07a3e0934367, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -11425,7 +11425,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: 93abfcc6878e3434eb785e1228b72db3, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -11489,7 +11489,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: de4ced00422ab4c19b5423a8b2143c8a, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -11555,8 +11555,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 37f1058aa7d2b4a07abd6974a215592a, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   entryTarget: {fileID: 705598006}
   exitTarget: {fileID: 705598006}
   invisible: 0
@@ -11588,7 +11588,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 10302, guid: 0000000000000000f000000000000000, type: 0}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -11655,15 +11655,15 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 2300002, guid: 1e7d050d2d0e54e8e8175230d2dd9663, type: 3}
       propertyPath: m_Materials.Array.data[0]
-      value: 
+      value:
       objectReference: {fileID: 2100000, guid: 6a5463b440582408992846e1ee004808, type: 2}
     - target: {fileID: 2300000, guid: 1e7d050d2d0e54e8e8175230d2dd9663, type: 3}
       propertyPath: m_Materials.Array.data[0]
-      value: 
+      value:
       objectReference: {fileID: 2100000, guid: 6a5463b440582408992846e1ee004808, type: 2}
     - target: {fileID: 3300000, guid: 1e7d050d2d0e54e8e8175230d2dd9663, type: 3}
       propertyPath: m_Mesh
-      value: 
+      value:
       objectReference: {fileID: 4300002, guid: 1e7d050d2d0e54e8e8175230d2dd9663, type: 3}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 1e7d050d2d0e54e8e8175230d2dd9663, type: 3}
@@ -11735,7 +11735,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: 17bb3b67f2ef440ae8ab943a6f864d07, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -11800,7 +11800,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: 8807c5164194b4431816c77545436889, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -11863,15 +11863,15 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 2300002, guid: 1e7d050d2d0e54e8e8175230d2dd9663, type: 3}
       propertyPath: m_Materials.Array.data[0]
-      value: 
+      value:
       objectReference: {fileID: 2100000, guid: 6a5463b440582408992846e1ee004808, type: 2}
     - target: {fileID: 2300000, guid: 1e7d050d2d0e54e8e8175230d2dd9663, type: 3}
       propertyPath: m_Materials.Array.data[0]
-      value: 
+      value:
       objectReference: {fileID: 2100000, guid: 6a5463b440582408992846e1ee004808, type: 2}
     - target: {fileID: 3300000, guid: 1e7d050d2d0e54e8e8175230d2dd9663, type: 3}
       propertyPath: m_Mesh
-      value: 
+      value:
       objectReference: {fileID: 4300002, guid: 1e7d050d2d0e54e8e8175230d2dd9663, type: 3}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 1e7d050d2d0e54e8e8175230d2dd9663, type: 3}
@@ -11921,8 +11921,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 37f1058aa7d2b4a07abd6974a215592a, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   entryTarget: {fileID: 721396106}
   exitTarget: {fileID: 721396106}
   invisible: 0
@@ -11971,7 +11971,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 10302, guid: 0000000000000000f000000000000000, type: 0}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -12056,7 +12056,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: 17bb3b67f2ef440ae8ab943a6f864d07, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -12118,7 +12118,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: 2729e246c24104627b58e27fb291eac0, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -12195,7 +12195,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: 29eb87b3fbc824cc7ac2114be86320ae, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -12306,7 +12306,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: cfa9ba3df00ec44d697f5681e59e9716, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -12381,7 +12381,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 2300000, guid: fe6270a37ad1e47688b05d7376645b0b, type: 3}
       propertyPath: m_Materials.Array.data[0]
-      value: 
+      value:
       objectReference: {fileID: 2100000, guid: 0d46527b3bba24d9690ba1f6a28eedd0, type: 2}
     - target: {fileID: 400000, guid: fe6270a37ad1e47688b05d7376645b0b, type: 3}
       propertyPath: m_LocalScale.y
@@ -12407,7 +12407,7 @@ RenderTexture:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: 
+  m_Name:
   m_ImageContentsHash:
     serializedVersion: 2
     Hash: 00000000000000000000000000000000
@@ -12465,7 +12465,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 2300000, guid: b175fea7723244c688129edc6f5e1e08, type: 3}
       propertyPath: m_Materials.Array.data[0]
-      value: 
+      value:
       objectReference: {fileID: 2100000, guid: 3b05764be5e7141ddb8c42d19ca9ede6, type: 2}
     - target: {fileID: 400000, guid: b175fea7723244c688129edc6f5e1e08, type: 3}
       propertyPath: m_LocalScale.x
@@ -12605,8 +12605,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 280112ebebfac4d529223ad81ba9cbdb, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   blades: {fileID: 1996830532}
   whoosh: {fileID: 0}
 --- !u!4 &787009528 stripped
@@ -12770,7 +12770,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: 2729e246c24104627b58e27fb291eac0, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -12834,7 +12834,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: de4ced00422ab4c19b5423a8b2143c8a, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -12899,7 +12899,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: c6d3acbe433754188b5a65255683fd78, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -12977,15 +12977,15 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 2300002, guid: 1e7d050d2d0e54e8e8175230d2dd9663, type: 3}
       propertyPath: m_Materials.Array.data[0]
-      value: 
+      value:
       objectReference: {fileID: 2100000, guid: 6a5463b440582408992846e1ee004808, type: 2}
     - target: {fileID: 2300000, guid: 1e7d050d2d0e54e8e8175230d2dd9663, type: 3}
       propertyPath: m_Materials.Array.data[0]
-      value: 
+      value:
       objectReference: {fileID: 2100000, guid: 6a5463b440582408992846e1ee004808, type: 2}
     - target: {fileID: 3300000, guid: 1e7d050d2d0e54e8e8175230d2dd9663, type: 3}
       propertyPath: m_Mesh
-      value: 
+      value:
       objectReference: {fileID: 4300002, guid: 1e7d050d2d0e54e8e8175230d2dd9663, type: 3}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 1e7d050d2d0e54e8e8175230d2dd9663, type: 3}
@@ -13036,7 +13036,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: 93abfcc6878e3434eb785e1228b72db3, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -13099,7 +13099,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 2300000, guid: 3bdef5cfb26f943d799bc1f76343a376, type: 3}
       propertyPath: m_Materials.Array.data[0]
-      value: 
+      value:
       objectReference: {fileID: 2100000, guid: d689b2fa40dbf487397558eaedee1fc6, type: 2}
     - target: {fileID: 400000, guid: 3bdef5cfb26f943d799bc1f76343a376, type: 3}
       propertyPath: m_LocalScale.x
@@ -13182,7 +13182,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: 17bb3b67f2ef440ae8ab943a6f864d07, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -13261,7 +13261,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: 0fe94939cabc449d08866aae06290b20, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -13338,7 +13338,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: 17bb3b67f2ef440ae8ab943a6f864d07, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -13398,8 +13398,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 37f1058aa7d2b4a07abd6974a215592a, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   entryTarget: {fileID: 838818425}
   exitTarget: {fileID: 838818425}
   invisible: 0
@@ -13448,7 +13448,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 10302, guid: 0000000000000000f000000000000000, type: 0}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -13533,7 +13533,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: 17bb3b67f2ef440ae8ab943a6f864d07, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -13599,7 +13599,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: 747eeef119c784104b39e375c489ecdb, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -13769,15 +13769,15 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 2300002, guid: 1e7d050d2d0e54e8e8175230d2dd9663, type: 3}
       propertyPath: m_Materials.Array.data[0]
-      value: 
+      value:
       objectReference: {fileID: 2100000, guid: 6a5463b440582408992846e1ee004808, type: 2}
     - target: {fileID: 2300000, guid: 1e7d050d2d0e54e8e8175230d2dd9663, type: 3}
       propertyPath: m_Materials.Array.data[0]
-      value: 
+      value:
       objectReference: {fileID: 2100000, guid: 6a5463b440582408992846e1ee004808, type: 2}
     - target: {fileID: 3300000, guid: 1e7d050d2d0e54e8e8175230d2dd9663, type: 3}
       propertyPath: m_Mesh
-      value: 
+      value:
       objectReference: {fileID: 4300002, guid: 1e7d050d2d0e54e8e8175230d2dd9663, type: 3}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 1e7d050d2d0e54e8e8175230d2dd9663, type: 3}
@@ -13882,7 +13882,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 2300000, guid: 18a83cedb374841debc29d347f9712cb, type: 3}
       propertyPath: m_Materials.Array.data[0]
-      value: 
+      value:
       objectReference: {fileID: 2100000, guid: de4ced00422ab4c19b5423a8b2143c8a, type: 2}
     - target: {fileID: 100000, guid: 18a83cedb374841debc29d347f9712cb, type: 3}
       propertyPath: m_Layer
@@ -13977,7 +13977,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: e450ebb5094b44fc190dd9e205962e25, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -14040,7 +14040,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 2300002, guid: b3476339720ec46ff8cf3bd4b5fce518, type: 3}
       propertyPath: m_Materials.Array.data[0]
-      value: 
+      value:
       objectReference: {fileID: 2100000, guid: 95646a5c72254494fb77e36b387fd073, type: 2}
     - target: {fileID: 400006, guid: b3476339720ec46ff8cf3bd4b5fce518, type: 3}
       propertyPath: m_LocalScale.x
@@ -14056,7 +14056,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 3300002, guid: b3476339720ec46ff8cf3bd4b5fce518, type: 3}
       propertyPath: m_Mesh
-      value: 
+      value:
       objectReference: {fileID: 4300000, guid: 8ece4507e3fad4d7e9fba2f9a45ab23b, type: 3}
     - target: {fileID: 100006, guid: b3476339720ec46ff8cf3bd4b5fce518, type: 3}
       propertyPath: m_IsActive
@@ -14116,8 +14116,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 37f1058aa7d2b4a07abd6974a215592a, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   entryTarget: {fileID: 891947805}
   exitTarget: {fileID: 891947805}
   invisible: 0
@@ -14229,11 +14229,11 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 3300000, guid: 1858996c5471f4337bf790109ca300ee, type: 3}
       propertyPath: m_Mesh
-      value: 
+      value:
       objectReference: {fileID: 4300000, guid: 1858996c5471f4337bf790109ca300ee, type: 3}
     - target: {fileID: 2300000, guid: 1858996c5471f4337bf790109ca300ee, type: 3}
       propertyPath: m_Materials.Array.data[0]
-      value: 
+      value:
       objectReference: {fileID: 2100000, guid: f6e1b7bf4d1734702953553add85ab43, type: 2}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 1858996c5471f4337bf790109ca300ee, type: 3}
@@ -14338,7 +14338,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: 8ff48022f3c0b438fbf7cab8e602db84, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -14400,7 +14400,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: cfa9ba3df00ec44d697f5681e59e9716, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -14523,7 +14523,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 2089908, guid: 9a98786024a024a4dbac2dcfc4bb58fb, type: 2}
       propertyPath: m_TargetTexture
-      value: 
+      value:
       objectReference: {fileID: 0}
     - target: {fileID: 11489906, guid: 9a98786024a024a4dbac2dcfc4bb58fb, type: 2}
       propertyPath: hideFogInEditor
@@ -14944,8 +14944,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 2e89d9e9320e8406589889b4689fba19, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   entryTarget: {fileID: 927176673}
   exitTarget: {fileID: 927176673}
   invisible: 0
@@ -14988,7 +14988,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: 9c0b74044b0f843cf98a1d102701c409, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -15062,7 +15062,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: 2729e246c24104627b58e27fb291eac0, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -15125,7 +15125,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 2300000, guid: 3bdef5cfb26f943d799bc1f76343a376, type: 3}
       propertyPath: m_Materials.Array.data[0]
-      value: 
+      value:
       objectReference: {fileID: 2100000, guid: 778d6f1e2a49e4330b9e137518a65c75, type: 2}
     - target: {fileID: 400000, guid: 3bdef5cfb26f943d799bc1f76343a376, type: 3}
       propertyPath: m_LocalScale.x
@@ -15175,7 +15175,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: de4ced00422ab4c19b5423a8b2143c8a, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -15267,8 +15267,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: efd5938cd202c48d993fa84c3a084752, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   lookDownElements:
   - text: {fileID: 384000201}
     textTransform: {fileID: 384000200}
@@ -15306,8 +15306,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: c94d52b492bf745b583ac80acb8c31a3, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   maxYaw: 12
   lockPitch: 0
   pitch: 35
@@ -15425,7 +15425,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: 7736fda07f5934e619684152b1576146, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -15492,8 +15492,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: a955b7e6c5a0c4f32a946b16c7f4d25c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   entryTarget: {fileID: 973601624}
   exitTarget: {fileID: 973601624}
   invisible: 0
@@ -15534,8 +15534,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 12ff4ed15e5104697a67a38a79670ee9, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   audioSource: {fileID: 973601629}
   meshRenderer: {fileID: 973601627}
   collider: {fileID: 973601624}
@@ -15552,7 +15552,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: 63b301627f1ab4137be273bc18200e87, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -15743,7 +15743,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: 65347dfce46c349bab2d64315ec3c2ed, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -15863,7 +15863,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 3307776, guid: 53131a5d4ed53444aba6d1ad5d65d423, type: 2}
       propertyPath: m_Mesh
-      value: 
+      value:
       objectReference: {fileID: 4300000, guid: 9db86e98fb9c44fc79d9bdcc0c3c3537, type: 3}
     - target: {fileID: 2007778, guid: 53131a5d4ed53444aba6d1ad5d65d423, type: 2}
       propertyPath: m_Enabled
@@ -15998,7 +15998,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: de4ced00422ab4c19b5423a8b2143c8a, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -16065,8 +16065,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 37f1058aa7d2b4a07abd6974a215592a, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   entryTarget: {fileID: 1027307861}
   exitTarget: {fileID: 1027307861}
   invisible: 0
@@ -16113,7 +16113,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 10302, guid: 0000000000000000f000000000000000, type: 0}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -16230,7 +16230,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 2300000, guid: 9b36e8c27a5df46eebf6d9226c9689d4, type: 3}
       propertyPath: m_Materials.Array.data[0]
-      value: 
+      value:
       objectReference: {fileID: 2100000, guid: 6f625e4a310aa45c98c9abb97efc11e3, type: 2}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 9b36e8c27a5df46eebf6d9226c9689d4, type: 3}
@@ -16306,8 +16306,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 8ac6d46ca0d0f43d8948eafa33d0b74b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   splashScene: {fileID: 251935020}
   menuScene: {fileID: 221754872}
   targetScene: {fileID: 105627949}
@@ -16339,8 +16339,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 4590ab1b959a345ad921211c4fac71f0, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   reticle: {fileID: 634691632}
   cardboard: {fileID: 1981564157}
   cardboardHead: {fileID: 279811788}
@@ -16388,7 +16388,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 2300000, guid: 3bdef5cfb26f943d799bc1f76343a376, type: 3}
       propertyPath: m_Materials.Array.data[0]
-      value: 
+      value:
       objectReference: {fileID: 2100000, guid: cc7ada923390c40aca21aedd614fe415, type: 2}
     - target: {fileID: 400000, guid: 3bdef5cfb26f943d799bc1f76343a376, type: 3}
       propertyPath: m_LocalScale.x
@@ -16437,7 +16437,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: 3ca96198e46864690a86a97fce136d56, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -16543,7 +16543,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: de4ced00422ab4c19b5423a8b2143c8a, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -16607,7 +16607,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: 091e255fa6bfa4b37af37100531560ad, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -16673,8 +16673,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: c94d52b492bf745b583ac80acb8c31a3, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   maxYaw: 0
   lockPitch: 1
   pitch: 0
@@ -16729,8 +16729,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 37f1058aa7d2b4a07abd6974a215592a, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   entryTarget: {fileID: 1089138683}
   exitTarget: {fileID: 1089138683}
   invisible: 0
@@ -16777,7 +16777,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 10302, guid: 0000000000000000f000000000000000, type: 0}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -16840,7 +16840,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: 76016600cfc5443b8a686c34ed330863, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -16912,7 +16912,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: cfa9ba3df00ec44d697f5681e59e9716, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -16976,7 +16976,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: 29eb87b3fbc824cc7ac2114be86320ae, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -17069,7 +17069,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: 7736fda07f5934e619684152b1576146, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -17132,7 +17132,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 2300000, guid: a94b9042bbe34433c811811f27d8b0f9, type: 3}
       propertyPath: m_Materials.Array.data[0]
-      value: 
+      value:
       objectReference: {fileID: 2100000, guid: 8bb87290d9d074bc6a1261565145e3a5, type: 2}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: a94b9042bbe34433c811811f27d8b0f9, type: 3}
@@ -17178,7 +17178,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 2389480, guid: af0ef507e50e545ee9c1ad9e983263b8, type: 2}
       propertyPath: m_Materials.Array.data[0]
-      value: 
+      value:
       objectReference: {fileID: 2100000, guid: e7a33253b92314f8b922bec764678ca7, type: 2}
     - target: {fileID: 172808, guid: af0ef507e50e545ee9c1ad9e983263b8, type: 2}
       propertyPath: m_StaticEditorFlags
@@ -17257,7 +17257,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: 17bb3b67f2ef440ae8ab943a6f864d07, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -17313,15 +17313,15 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 2300002, guid: 1e7d050d2d0e54e8e8175230d2dd9663, type: 3}
       propertyPath: m_Materials.Array.data[0]
-      value: 
+      value:
       objectReference: {fileID: 2100000, guid: 6a5463b440582408992846e1ee004808, type: 2}
     - target: {fileID: 2300000, guid: 1e7d050d2d0e54e8e8175230d2dd9663, type: 3}
       propertyPath: m_Materials.Array.data[0]
-      value: 
+      value:
       objectReference: {fileID: 2100000, guid: 6a5463b440582408992846e1ee004808, type: 2}
     - target: {fileID: 3300000, guid: 1e7d050d2d0e54e8e8175230d2dd9663, type: 3}
       propertyPath: m_Mesh
-      value: 
+      value:
       objectReference: {fileID: 4300002, guid: 1e7d050d2d0e54e8e8175230d2dd9663, type: 3}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 1e7d050d2d0e54e8e8175230d2dd9663, type: 3}
@@ -17369,8 +17369,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 37f1058aa7d2b4a07abd6974a215592a, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   entryTarget: {fileID: 1121694675}
   exitTarget: {fileID: 1121694675}
   invisible: 0
@@ -17402,7 +17402,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 10302, guid: 0000000000000000f000000000000000, type: 0}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -17466,7 +17466,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: 65347dfce46c349bab2d64315ec3c2ed, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -17640,7 +17640,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: 17bb3b67f2ef440ae8ab943a6f864d07, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -17696,7 +17696,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: 76016600cfc5443b8a686c34ed330863, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -17819,7 +17819,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: de4ced00422ab4c19b5423a8b2143c8a, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -17911,8 +17911,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 280112ebebfac4d529223ad81ba9cbdb, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   blades: {fileID: 1069787192}
   whoosh: {fileID: 0}
 --- !u!1 &1172630020
@@ -17957,7 +17957,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: de4ced00422ab4c19b5423a8b2143c8a, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -18055,8 +18055,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 280112ebebfac4d529223ad81ba9cbdb, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   blades: {fileID: 474110673}
   whoosh: {fileID: 1192443815}
 --- !u!82 &1192443815
@@ -18199,7 +18199,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: 8ff48022f3c0b438fbf7cab8e602db84, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -18255,7 +18255,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: cfa9ba3df00ec44d697f5681e59e9716, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -18412,8 +18412,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 37f1058aa7d2b4a07abd6974a215592a, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   entryTarget: {fileID: 1214280371}
   exitTarget: {fileID: 1214280371}
   invisible: 0
@@ -18433,7 +18433,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 10302, guid: 0000000000000000f000000000000000, type: 0}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -18557,7 +18557,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: 8bc96e9512da8410f83aec7e30b5aa26, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -18626,8 +18626,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 280112ebebfac4d529223ad81ba9cbdb, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   blades: {fileID: 664517443}
   whoosh: {fileID: 0}
 --- !u!1 &1246683825
@@ -18672,8 +18672,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: efd5938cd202c48d993fa84c3a084752, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   lookDownElements:
   - text: {fileID: 298800737}
     textTransform: {fileID: 298800736}
@@ -18711,8 +18711,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: c94d52b492bf745b583ac80acb8c31a3, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   maxYaw: 12
   lockPitch: 0
   pitch: 35
@@ -18856,7 +18856,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: 17bb3b67f2ef440ae8ab943a6f864d07, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -18913,8 +18913,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 845a10de075b24db3b4eecde6b068609, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   minYaw: -7
   maxYaw: 7
   lockPitch: 0
@@ -18980,7 +18980,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 2325100, guid: 1076b686da0b9480a83f293b0dee3eb2, type: 2}
       propertyPath: m_Materials.Array.data[0]
-      value: 
+      value:
       objectReference: {fileID: 2100000, guid: e7a33253b92314f8b922bec764678ca7, type: 2}
     - target: {fileID: 194188, guid: 1076b686da0b9480a83f293b0dee3eb2, type: 2}
       propertyPath: m_StaticEditorFlags
@@ -19107,7 +19107,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: 7736fda07f5934e619684152b1576146, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -19249,7 +19249,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 2089908, guid: 9a98786024a024a4dbac2dcfc4bb58fb, type: 2}
       propertyPath: m_TargetTexture
-      value: 
+      value:
       objectReference: {fileID: 453645050}
     - target: {fileID: 11489906, guid: 9a98786024a024a4dbac2dcfc4bb58fb, type: 2}
       propertyPath: hideFogInEditor
@@ -19597,31 +19597,31 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 11489906, guid: 9a98786024a024a4dbac2dcfc4bb58fb, type: 2}
       propertyPath: timeOfDay
-      value: 
+      value:
       objectReference: {fileID: 1137016147}
     - target: {fileID: 11490746, guid: 9a98786024a024a4dbac2dcfc4bb58fb, type: 2}
       propertyPath: times.Array.data[0]
-      value: 
+      value:
       objectReference: {fileID: 11400000, guid: 4bdb21858c43d41a59083ed8b62f5ebc,
         type: 2}
     - target: {fileID: 11490746, guid: 9a98786024a024a4dbac2dcfc4bb58fb, type: 2}
       propertyPath: times.Array.data[1]
-      value: 
+      value:
       objectReference: {fileID: 11400000, guid: 44ad5c299df03485784ab95218c7cfdd,
         type: 2}
     - target: {fileID: 11490746, guid: 9a98786024a024a4dbac2dcfc4bb58fb, type: 2}
       propertyPath: times.Array.data[2]
-      value: 
+      value:
       objectReference: {fileID: 11400000, guid: 83ea06147d1ae4a8bb5d563dce0cfb7a,
         type: 2}
     - target: {fileID: 11490746, guid: 9a98786024a024a4dbac2dcfc4bb58fb, type: 2}
       propertyPath: times.Array.data[3]
-      value: 
+      value:
       objectReference: {fileID: 11400000, guid: f8895c099ccc1405599c27ea3ea14c87,
         type: 2}
     - target: {fileID: 11489906, guid: 9a98786024a024a4dbac2dcfc4bb58fb, type: 2}
       propertyPath: editorTimeOfDaySetting
-      value: 
+      value:
       objectReference: {fileID: 11400000, guid: 4bdb21858c43d41a59083ed8b62f5ebc,
         type: 2}
     - target: {fileID: 11489906, guid: 9a98786024a024a4dbac2dcfc4bb58fb, type: 2}
@@ -19646,12 +19646,12 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 11490746, guid: 9a98786024a024a4dbac2dcfc4bb58fb, type: 2}
       propertyPath: times.Array.data[4]
-      value: 
+      value:
       objectReference: {fileID: 11400000, guid: bace23e55e14c43a09188ad775004f87,
         type: 2}
     - target: {fileID: 11490746, guid: 9a98786024a024a4dbac2dcfc4bb58fb, type: 2}
       propertyPath: times.Array.data[5]
-      value: 
+      value:
       objectReference: {fileID: 11400000, guid: 23c72a39da9c449be8a2ae36671c48df,
         type: 2}
     - target: {fileID: 11489906, guid: 9a98786024a024a4dbac2dcfc4bb58fb, type: 2}
@@ -19680,11 +19680,11 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 11489906, guid: 9a98786024a024a4dbac2dcfc4bb58fb, type: 2}
       propertyPath: targetPoint
-      value: 
+      value:
       objectReference: {fileID: 318427454}
     - target: {fileID: 11489906, guid: 9a98786024a024a4dbac2dcfc4bb58fb, type: 2}
       propertyPath: shadows
-      value: 
+      value:
       objectReference: {fileID: 1137016149}
     - target: {fileID: 11489906, guid: 9a98786024a024a4dbac2dcfc4bb58fb, type: 2}
       propertyPath: animatedRotation
@@ -19700,7 +19700,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 11490746, guid: 9a98786024a024a4dbac2dcfc4bb58fb, type: 2}
       propertyPath: times.Array.data[6]
-      value: 
+      value:
       objectReference: {fileID: 11400000, guid: d7a42858d7d974eae8f0e7e2ed2fadaf,
         type: 2}
     - target: {fileID: 2089908, guid: 9a98786024a024a4dbac2dcfc4bb58fb, type: 2}
@@ -19827,7 +19827,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 2300000, guid: 9b36e8c27a5df46eebf6d9226c9689d4, type: 3}
       propertyPath: m_Materials.Array.data[0]
-      value: 
+      value:
       objectReference: {fileID: 2100000, guid: c6ba82ad055f84a20ac00c62788ec47d, type: 2}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 9b36e8c27a5df46eebf6d9226c9689d4, type: 3}
@@ -19874,7 +19874,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: 29eb87b3fbc824cc7ac2114be86320ae, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -19991,8 +19991,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 37f1058aa7d2b4a07abd6974a215592a, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   entryTarget: {fileID: 1322177330}
   exitTarget: {fileID: 1322177330}
   invisible: 0
@@ -20039,7 +20039,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 10302, guid: 0000000000000000f000000000000000, type: 0}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -20066,7 +20066,7 @@ RenderTexture:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: 
+  m_Name:
   m_ImageContentsHash:
     serializedVersion: 2
     Hash: 00000000000000000000000000000000
@@ -20165,7 +20165,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 2300000, guid: 3bdef5cfb26f943d799bc1f76343a376, type: 3}
       propertyPath: m_Materials.Array.data[0]
-      value: 
+      value:
       objectReference: {fileID: 2100000, guid: 03329bb3238454e48849098eec0f0337, type: 2}
     - target: {fileID: 400000, guid: 3bdef5cfb26f943d799bc1f76343a376, type: 3}
       propertyPath: m_LocalScale.x
@@ -20228,7 +20228,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: de4ced00422ab4c19b5423a8b2143c8a, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -20313,7 +20313,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: 17bb3b67f2ef440ae8ab943a6f864d07, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -20400,8 +20400,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 37f1058aa7d2b4a07abd6974a215592a, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   entryTarget: {fileID: 1341589698}
   exitTarget: {fileID: 1341589698}
   invisible: 0
@@ -20433,7 +20433,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 10302, guid: 0000000000000000f000000000000000, type: 0}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -20496,7 +20496,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: 4a76b976e76f84b7b870bd5d8827acb0, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -20562,7 +20562,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 10302, guid: 0000000000000000f000000000000000, type: 0}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -20643,11 +20643,11 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 3300000, guid: 1858996c5471f4337bf790109ca300ee, type: 3}
       propertyPath: m_Mesh
-      value: 
+      value:
       objectReference: {fileID: 4300000, guid: 1858996c5471f4337bf790109ca300ee, type: 3}
     - target: {fileID: 2300000, guid: 1858996c5471f4337bf790109ca300ee, type: 3}
       propertyPath: m_Materials.Array.data[0]
-      value: 
+      value:
       objectReference: {fileID: 2100000, guid: f6e1b7bf4d1734702953553add85ab43, type: 2}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 1858996c5471f4337bf790109ca300ee, type: 3}
@@ -20722,7 +20722,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 2300000, guid: 4063956d6b0804beb98ba9373949fd48, type: 3}
       propertyPath: m_Materials.Array.data[0]
-      value: 
+      value:
       objectReference: {fileID: 2100000, guid: 8bb87290d9d074bc6a1261565145e3a5, type: 2}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 4063956d6b0804beb98ba9373949fd48, type: 3}
@@ -20780,8 +20780,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 37f1058aa7d2b4a07abd6974a215592a, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   entryTarget: {fileID: 1368138530}
   exitTarget: {fileID: 1368138530}
   invisible: 0
@@ -20828,7 +20828,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 10302, guid: 0000000000000000f000000000000000, type: 0}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -20950,7 +20950,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: ad6b216e4728d4c6db8881536990b636, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -21017,7 +21017,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 2300000, guid: 2b92127fa26424660b6772260920492f, type: 3}
       propertyPath: m_Materials.Array.data[0]
-      value: 
+      value:
       objectReference: {fileID: 2100000, guid: 8a54ef5398537449e9ec14f224f1a5dc, type: 2}
     - target: {fileID: 100000, guid: 2b92127fa26424660b6772260920492f, type: 3}
       propertyPath: m_IsActive
@@ -21037,7 +21037,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 3300000, guid: 2b92127fa26424660b6772260920492f, type: 3}
       propertyPath: m_Mesh
-      value: 
+      value:
       objectReference: {fileID: 4300000, guid: 8400f42341a374b348388dde40b378e4, type: 3}
     - target: {fileID: 100000, guid: 2b92127fa26424660b6772260920492f, type: 3}
       propertyPath: m_Name
@@ -21108,8 +21108,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 37f1058aa7d2b4a07abd6974a215592a, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   entryTarget: {fileID: 1387719341}
   exitTarget: {fileID: 1387719341}
   invisible: 0
@@ -21129,7 +21129,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 10302, guid: 0000000000000000f000000000000000, type: 0}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -21209,7 +21209,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: de4ced00422ab4c19b5423a8b2143c8a, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -21277,8 +21277,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: a955b7e6c5a0c4f32a946b16c7f4d25c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   entryTarget: {fileID: 1394709649}
   exitTarget: {fileID: 1394709649}
   invisible: 0
@@ -21319,8 +21319,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 12ff4ed15e5104697a67a38a79670ee9, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   audioSource: {fileID: 1394709654}
   meshRenderer: {fileID: 1394709652}
   collider: {fileID: 1394709649}
@@ -21337,7 +21337,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: 7c66f3500e13245d2bff8c56eaee7fcf, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -21514,15 +21514,15 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 2300002, guid: 1e7d050d2d0e54e8e8175230d2dd9663, type: 3}
       propertyPath: m_Materials.Array.data[0]
-      value: 
+      value:
       objectReference: {fileID: 2100000, guid: 6a5463b440582408992846e1ee004808, type: 2}
     - target: {fileID: 2300000, guid: 1e7d050d2d0e54e8e8175230d2dd9663, type: 3}
       propertyPath: m_Materials.Array.data[0]
-      value: 
+      value:
       objectReference: {fileID: 2100000, guid: 6a5463b440582408992846e1ee004808, type: 2}
     - target: {fileID: 3300000, guid: 1e7d050d2d0e54e8e8175230d2dd9663, type: 3}
       propertyPath: m_Mesh
-      value: 
+      value:
       objectReference: {fileID: 4300002, guid: 1e7d050d2d0e54e8e8175230d2dd9663, type: 3}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 1e7d050d2d0e54e8e8175230d2dd9663, type: 3}
@@ -21532,7 +21532,7 @@ RenderTexture:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: 
+  m_Name:
   m_ImageContentsHash:
     serializedVersion: 2
     Hash: 00000000000000000000000000000000
@@ -21602,11 +21602,11 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 3300000, guid: 1858996c5471f4337bf790109ca300ee, type: 3}
       propertyPath: m_Mesh
-      value: 
+      value:
       objectReference: {fileID: 4300000, guid: 1858996c5471f4337bf790109ca300ee, type: 3}
     - target: {fileID: 2300000, guid: 1858996c5471f4337bf790109ca300ee, type: 3}
       propertyPath: m_Materials.Array.data[0]
-      value: 
+      value:
       objectReference: {fileID: 2100000, guid: 6b8ae523d193444a8ab819bf32011fee, type: 2}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 1858996c5471f4337bf790109ca300ee, type: 3}
@@ -21654,8 +21654,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 37f1058aa7d2b4a07abd6974a215592a, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   entryTarget: {fileID: 1414522550}
   exitTarget: {fileID: 1414522550}
   invisible: 0
@@ -21687,7 +21687,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 10302, guid: 0000000000000000f000000000000000, type: 0}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -21771,7 +21771,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: 8ff48022f3c0b438fbf7cab8e602db84, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -21891,7 +21891,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: cc9010ffc7eb144cd81f76d972590793, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -21948,7 +21948,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: de4ced00422ab4c19b5423a8b2143c8a, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -22016,7 +22016,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: 3ca96198e46864690a86a97fce136d56, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -22100,7 +22100,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: 17bb3b67f2ef440ae8ab943a6f864d07, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -22177,7 +22177,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: 17bb3b67f2ef440ae8ab943a6f864d07, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -22242,7 +22242,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: 3ca96198e46864690a86a97fce136d56, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -22303,8 +22303,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 37f1058aa7d2b4a07abd6974a215592a, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   entryTarget: {fileID: 1469726955}
   exitTarget: {fileID: 1469726955}
   invisible: 0
@@ -22387,7 +22387,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: 17bb3b67f2ef440ae8ab943a6f864d07, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -22464,7 +22464,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: 17bb3b67f2ef440ae8ab943a6f864d07, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -22521,7 +22521,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: de4ced00422ab4c19b5423a8b2143c8a, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -22612,7 +22612,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: 8ff48022f3c0b438fbf7cab8e602db84, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -22670,8 +22670,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 37f1058aa7d2b4a07abd6974a215592a, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   entryTarget: {fileID: 1495129139}
   exitTarget: {fileID: 1495129139}
   invisible: 0
@@ -22691,7 +22691,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 10302, guid: 0000000000000000f000000000000000, type: 0}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -22795,7 +22795,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: 76016600cfc5443b8a686c34ed330863, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -22893,7 +22893,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: 17bb3b67f2ef440ae8ab943a6f864d07, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -22989,7 +22989,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: 17bb3b67f2ef440ae8ab943a6f864d07, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -23070,7 +23070,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: 17bb3b67f2ef440ae8ab943a6f864d07, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -23126,7 +23126,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: bbb8d75ab81934ce5a6da4bbac218f9f, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -23195,7 +23195,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 2089908, guid: 9a98786024a024a4dbac2dcfc4bb58fb, type: 2}
       propertyPath: m_TargetTexture
-      value: 
+      value:
       objectReference: {fileID: 1728523966}
     - target: {fileID: 11489906, guid: 9a98786024a024a4dbac2dcfc4bb58fb, type: 2}
       propertyPath: hideFogInEditor
@@ -23630,7 +23630,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: cc9010ffc7eb144cd81f76d972590793, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -23687,8 +23687,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: efd5938cd202c48d993fa84c3a084752, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   lookDownElements:
   - text: {fileID: 1144184381}
     textTransform: {fileID: 1144184380}
@@ -23726,8 +23726,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: c94d52b492bf745b583ac80acb8c31a3, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   maxYaw: 12
   lockPitch: 0
   pitch: 35
@@ -23780,7 +23780,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 2089908, guid: 9a98786024a024a4dbac2dcfc4bb58fb, type: 2}
       propertyPath: m_TargetTexture
-      value: 
+      value:
       objectReference: {fileID: 1325712537}
     - target: {fileID: 11489906, guid: 9a98786024a024a4dbac2dcfc4bb58fb, type: 2}
       propertyPath: hideFogInEditor
@@ -24197,8 +24197,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 37f1058aa7d2b4a07abd6974a215592a, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   entryTarget: {fileID: 1557635198}
   exitTarget: {fileID: 1557635198}
   invisible: 0
@@ -24245,7 +24245,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 10302, guid: 0000000000000000f000000000000000, type: 0}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -24333,7 +24333,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: cc9010ffc7eb144cd81f76d972590793, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -24393,15 +24393,15 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 2300000, guid: 1e7d050d2d0e54e8e8175230d2dd9663, type: 3}
       propertyPath: m_Materials.Array.data[0]
-      value: 
+      value:
       objectReference: {fileID: 2100000, guid: 6a5463b440582408992846e1ee004808, type: 2}
     - target: {fileID: 2300002, guid: 1e7d050d2d0e54e8e8175230d2dd9663, type: 3}
       propertyPath: m_Materials.Array.data[0]
-      value: 
+      value:
       objectReference: {fileID: 2100000, guid: 6a5463b440582408992846e1ee004808, type: 2}
     - target: {fileID: 3300000, guid: 1e7d050d2d0e54e8e8175230d2dd9663, type: 3}
       propertyPath: m_Mesh
-      value: 
+      value:
       objectReference: {fileID: 4300002, guid: 1e7d050d2d0e54e8e8175230d2dd9663, type: 3}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 1e7d050d2d0e54e8e8175230d2dd9663, type: 3}
@@ -24473,7 +24473,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: 17bb3b67f2ef440ae8ab943a6f864d07, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -24541,11 +24541,11 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 3300000, guid: 1858996c5471f4337bf790109ca300ee, type: 3}
       propertyPath: m_Mesh
-      value: 
+      value:
       objectReference: {fileID: 4300000, guid: 1858996c5471f4337bf790109ca300ee, type: 3}
     - target: {fileID: 2300000, guid: 1858996c5471f4337bf790109ca300ee, type: 3}
       propertyPath: m_Materials.Array.data[0]
-      value: 
+      value:
       objectReference: {fileID: 2100000, guid: f6e1b7bf4d1734702953553add85ab43, type: 2}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 1858996c5471f4337bf790109ca300ee, type: 3}
@@ -24672,8 +24672,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 37f1058aa7d2b4a07abd6974a215592a, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   entryTarget: {fileID: 1611789938}
   exitTarget: {fileID: 1611789938}
   invisible: 0
@@ -24693,7 +24693,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 10302, guid: 0000000000000000f000000000000000, type: 0}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -24768,7 +24768,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 2300000, guid: 3bdef5cfb26f943d799bc1f76343a376, type: 3}
       propertyPath: m_Materials.Array.data[0]
-      value: 
+      value:
       objectReference: {fileID: 2100000, guid: 33cb2d8e3ca5f45aabab872282603a76, type: 2}
     - target: {fileID: 400000, guid: 3bdef5cfb26f943d799bc1f76343a376, type: 3}
       propertyPath: m_LocalScale.x
@@ -24846,11 +24846,11 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 3300000, guid: 1858996c5471f4337bf790109ca300ee, type: 3}
       propertyPath: m_Mesh
-      value: 
+      value:
       objectReference: {fileID: 4300000, guid: 1858996c5471f4337bf790109ca300ee, type: 3}
     - target: {fileID: 2300000, guid: 1858996c5471f4337bf790109ca300ee, type: 3}
       propertyPath: m_Materials.Array.data[0]
-      value: 
+      value:
       objectReference: {fileID: 2100000, guid: 6b8ae523d193444a8ab819bf32011fee, type: 2}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 1858996c5471f4337bf790109ca300ee, type: 3}
@@ -24946,7 +24946,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: 17bb3b67f2ef440ae8ab943a6f864d07, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -25053,7 +25053,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: 17bb3b67f2ef440ae8ab943a6f864d07, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -25110,7 +25110,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: de4ced00422ab4c19b5423a8b2143c8a, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -25174,7 +25174,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: 3ca96198e46864690a86a97fce136d56, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -25252,7 +25252,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: 3590e93ab1df04c8790f12b666d05f22, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -25336,7 +25336,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: 17bb3b67f2ef440ae8ab943a6f864d07, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -25415,7 +25415,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: 8ff48022f3c0b438fbf7cab8e602db84, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -25555,7 +25555,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: 93abfcc6878e3434eb785e1228b72db3, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -25650,7 +25650,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 2300002, guid: b3476339720ec46ff8cf3bd4b5fce518, type: 3}
       propertyPath: m_Materials.Array.data[0]
-      value: 
+      value:
       objectReference: {fileID: 2100000, guid: 95646a5c72254494fb77e36b387fd073, type: 2}
     - target: {fileID: 400006, guid: b3476339720ec46ff8cf3bd4b5fce518, type: 3}
       propertyPath: m_LocalScale.x
@@ -25666,7 +25666,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 3300002, guid: b3476339720ec46ff8cf3bd4b5fce518, type: 3}
       propertyPath: m_Mesh
-      value: 
+      value:
       objectReference: {fileID: 4300000, guid: 8ece4507e3fad4d7e9fba2f9a45ab23b, type: 3}
     - target: {fileID: 100006, guid: b3476339720ec46ff8cf3bd4b5fce518, type: 3}
       propertyPath: m_Layer
@@ -25737,7 +25737,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: 17bb3b67f2ef440ae8ab943a6f864d07, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -25793,7 +25793,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: 0d7e178730c924a9fb82ed99e502ade3, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -25883,7 +25883,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: 8ff48022f3c0b438fbf7cab8e602db84, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -25950,8 +25950,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: c94d52b492bf745b583ac80acb8c31a3, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   maxYaw: 12
   lockPitch: 0
   pitch: 35
@@ -25966,8 +25966,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: efd5938cd202c48d993fa84c3a084752, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   lookDownElements:
   - text: {fileID: 1120254674}
     textTransform: {fileID: 1120254673}
@@ -26058,7 +26058,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: 17bb3b67f2ef440ae8ab943a6f864d07, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -26136,7 +26136,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: 8ff48022f3c0b438fbf7cab8e602db84, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -26168,8 +26168,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 280112ebebfac4d529223ad81ba9cbdb, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   blades: {fileID: 1882050635}
   whoosh: {fileID: 0}
 --- !u!1 &1710631996
@@ -26234,7 +26234,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: 17bb3b67f2ef440ae8ab943a6f864d07, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -26345,7 +26345,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: a3f651a58cf1d40ed88651000f4a6a3d, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -26372,7 +26372,7 @@ RenderTexture:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: 
+  m_Name:
   m_ImageContentsHash:
     serializedVersion: 2
     Hash: 00000000000000000000000000000000
@@ -26406,8 +26406,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 280112ebebfac4d529223ad81ba9cbdb, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   blades: {fileID: 1869161584}
   whoosh: {fileID: 0}
 --- !u!4 &1735481769 stripped
@@ -26529,7 +26529,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: 17bb3b67f2ef440ae8ab943a6f864d07, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -26586,7 +26586,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: de4ced00422ab4c19b5423a8b2143c8a, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -26669,7 +26669,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 2300000, guid: 3bdef5cfb26f943d799bc1f76343a376, type: 3}
       propertyPath: m_Materials.Array.data[0]
-      value: 
+      value:
       objectReference: {fileID: 2100000, guid: d689b2fa40dbf487397558eaedee1fc6, type: 2}
     - target: {fileID: 400000, guid: 3bdef5cfb26f943d799bc1f76343a376, type: 3}
       propertyPath: m_LocalScale.x
@@ -26732,7 +26732,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: de4ced00422ab4c19b5423a8b2143c8a, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -26819,7 +26819,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: 8ff48022f3c0b438fbf7cab8e602db84, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -26875,7 +26875,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 2300000, guid: 3bdef5cfb26f943d799bc1f76343a376, type: 3}
       propertyPath: m_Materials.Array.data[0]
-      value: 
+      value:
       objectReference: {fileID: 2100000, guid: 778d6f1e2a49e4330b9e137518a65c75, type: 2}
     - target: {fileID: 400000, guid: 3bdef5cfb26f943d799bc1f76343a376, type: 3}
       propertyPath: m_LocalScale.x
@@ -27028,7 +27028,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: 29eb87b3fbc824cc7ac2114be86320ae, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -27121,7 +27121,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 2300000, guid: 291a59a38ebd44ef78aeb83bb15a7598, type: 3}
       propertyPath: m_Materials.Array.data[0]
-      value: 
+      value:
       objectReference: {fileID: 2100000, guid: df862f656b773468fb28fc71ab80ee09, type: 2}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 291a59a38ebd44ef78aeb83bb15a7598, type: 3}
@@ -27168,7 +27168,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: de4ced00422ab4c19b5423a8b2143c8a, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -27260,7 +27260,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: 76016600cfc5443b8a686c34ed330863, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -27293,7 +27293,7 @@ RenderTexture:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: 
+  m_Name:
   m_ImageContentsHash:
     serializedVersion: 2
     Hash: 00000000000000000000000000000000
@@ -27376,7 +27376,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: 17bb3b67f2ef440ae8ab943a6f864d07, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -27434,8 +27434,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 37f1058aa7d2b4a07abd6974a215592a, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   entryTarget: {fileID: 1837325789}
   exitTarget: {fileID: 1837325789}
   invisible: 0
@@ -27467,7 +27467,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 10302, guid: 0000000000000000f000000000000000, type: 0}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -27535,7 +27535,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: bbb8d75ab81934ce5a6da4bbac218f9f, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -27653,7 +27653,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: 17bb3b67f2ef440ae8ab943a6f864d07, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -27709,7 +27709,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: 4166c4534be1840f3b95d1b03aa9f49f, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -27776,7 +27776,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: feeccfa91944845d6924d6d1a51a861b, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -27839,8 +27839,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: da03c49cb3a294a73b436591556065d6, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   orientationRoot: {fileID: 780677142}
   spawnPoint: {fileID: 23847417}
   menu: {fileID: 2031902916}
@@ -28061,7 +28061,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: 7736fda07f5934e619684152b1576146, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -28124,7 +28124,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: cfa9ba3df00ec44d697f5681e59e9716, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -28167,8 +28167,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 280112ebebfac4d529223ad81ba9cbdb, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   blades: {fileID: 178730707}
   whoosh: {fileID: 0}
 --- !u!114 &1901426101 stripped
@@ -28239,7 +28239,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: 17bb3b67f2ef440ae8ab943a6f864d07, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -28279,8 +28279,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 1650d4c712e2849faa1ea635dddecca7, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
 --- !u!4 &1910393729
 Transform:
   m_ObjectHideFlags: 0
@@ -28396,8 +28396,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 37f1058aa7d2b4a07abd6974a215592a, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   entryTarget: {fileID: 1936995816}
   exitTarget: {fileID: 1936995816}
   invisible: 0
@@ -28497,7 +28497,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: 93abfcc6878e3434eb785e1228b72db3, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -28560,15 +28560,15 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 2300002, guid: 1e7d050d2d0e54e8e8175230d2dd9663, type: 3}
       propertyPath: m_Materials.Array.data[0]
-      value: 
+      value:
       objectReference: {fileID: 2100000, guid: 6a5463b440582408992846e1ee004808, type: 2}
     - target: {fileID: 2300000, guid: 1e7d050d2d0e54e8e8175230d2dd9663, type: 3}
       propertyPath: m_Materials.Array.data[0]
-      value: 
+      value:
       objectReference: {fileID: 2100000, guid: 6a5463b440582408992846e1ee004808, type: 2}
     - target: {fileID: 3300000, guid: 1e7d050d2d0e54e8e8175230d2dd9663, type: 3}
       propertyPath: m_Mesh
-      value: 
+      value:
       objectReference: {fileID: 4300002, guid: 1e7d050d2d0e54e8e8175230d2dd9663, type: 3}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 1e7d050d2d0e54e8e8175230d2dd9663, type: 3}
@@ -28623,7 +28623,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 2300000, guid: 3bdef5cfb26f943d799bc1f76343a376, type: 3}
       propertyPath: m_Materials.Array.data[0]
-      value: 
+      value:
       objectReference: {fileID: 2100000, guid: 33cb2d8e3ca5f45aabab872282603a76, type: 2}
     - target: {fileID: 400000, guid: 3bdef5cfb26f943d799bc1f76343a376, type: 3}
       propertyPath: m_LocalScale.x
@@ -28686,7 +28686,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: de4ced00422ab4c19b5423a8b2143c8a, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -28762,7 +28762,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 2300000, guid: 9b36e8c27a5df46eebf6d9226c9689d4, type: 3}
       propertyPath: m_Materials.Array.data[0]
-      value: 
+      value:
       objectReference: {fileID: 2100000, guid: c6ba82ad055f84a20ac00c62788ec47d, type: 2}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 9b36e8c27a5df46eebf6d9226c9689d4, type: 3}
@@ -28808,7 +28808,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: bbb8d75ab81934ce5a6da4bbac218f9f, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -28882,8 +28882,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 37f1058aa7d2b4a07abd6974a215592a, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   entryTarget: {fileID: 1972104937}
   exitTarget: {fileID: 1972104937}
   invisible: 0
@@ -28930,7 +28930,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 10302, guid: 0000000000000000f000000000000000, type: 0}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -29010,8 +29010,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 280112ebebfac4d529223ad81ba9cbdb, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   blades: {fileID: 1265354105}
   whoosh: {fileID: 0}
 --- !u!4 &1995325120 stripped
@@ -29063,7 +29063,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: 2729e246c24104627b58e27fb291eac0, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -29152,7 +29152,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: 17bb3b67f2ef440ae8ab943a6f864d07, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -29242,7 +29242,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 2300000, guid: 2b92127fa26424660b6772260920492f, type: 3}
       propertyPath: m_Materials.Array.data[0]
-      value: 
+      value:
       objectReference: {fileID: 2100000, guid: cb1ca267d315d49d4922a931fc02764e, type: 2}
     - target: {fileID: 100000, guid: 2b92127fa26424660b6772260920492f, type: 3}
       propertyPath: m_IsActive
@@ -29266,7 +29266,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 3300000, guid: 2b92127fa26424660b6772260920492f, type: 3}
       propertyPath: m_Mesh
-      value: 
+      value:
       objectReference: {fileID: 4300000, guid: f9232bfaa45894acb9e6ba7694613165, type: 3}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 2b92127fa26424660b6772260920492f, type: 3}
@@ -29337,7 +29337,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: 8ff48022f3c0b438fbf7cab8e602db84, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -29422,7 +29422,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: bb56faa5e1dda46e490dd83f5f0c4af2, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -29484,8 +29484,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 8514590c70ae24c56829e22326e43f9d, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   orientationRoot: {fileID: 1129533236}
   spawnPoint: {fileID: 927176672}
   menu: {fileID: 679372466}
@@ -29566,7 +29566,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: 17bb3b67f2ef440ae8ab943a6f864d07, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -29630,8 +29630,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 37f1058aa7d2b4a07abd6974a215592a, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   entryTarget: {fileID: 2031902917}
   exitTarget: {fileID: 2031902917}
   invisible: 0
@@ -29663,7 +29663,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 10302, guid: 0000000000000000f000000000000000, type: 0}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -29751,7 +29751,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: 17bb3b67f2ef440ae8ab943a6f864d07, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -29828,7 +29828,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: 8ff48022f3c0b438fbf7cab8e602db84, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -29896,11 +29896,11 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 3300000, guid: 1858996c5471f4337bf790109ca300ee, type: 3}
       propertyPath: m_Mesh
-      value: 
+      value:
       objectReference: {fileID: 4300000, guid: 1858996c5471f4337bf790109ca300ee, type: 3}
     - target: {fileID: 2300000, guid: 1858996c5471f4337bf790109ca300ee, type: 3}
       propertyPath: m_Materials.Array.data[0]
-      value: 
+      value:
       objectReference: {fileID: 2100000, guid: 6b8ae523d193444a8ab819bf32011fee, type: 2}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 1858996c5471f4337bf790109ca300ee, type: 3}
@@ -29990,7 +29990,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: 8ff48022f3c0b438fbf7cab8e602db84, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -30096,7 +30096,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: 8ff48022f3c0b438fbf7cab8e602db84, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -30176,7 +30176,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: 17bb3b67f2ef440ae8ab943a6f864d07, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -30238,8 +30238,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 37f1058aa7d2b4a07abd6974a215592a, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   entryTarget: {fileID: 2083574681}
   exitTarget: {fileID: 2083574681}
   invisible: 0
@@ -30271,7 +30271,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 10302, guid: 0000000000000000f000000000000000, type: 0}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -30336,8 +30336,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 37f1058aa7d2b4a07abd6974a215592a, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   entryTarget: {fileID: 2085088002}
   exitTarget: {fileID: 2085088002}
   invisible: 0
@@ -30369,7 +30369,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 10302, guid: 0000000000000000f000000000000000, type: 0}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -30444,7 +30444,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 2300000, guid: 9b36e8c27a5df46eebf6d9226c9689d4, type: 3}
       propertyPath: m_Materials.Array.data[0]
-      value: 
+      value:
       objectReference: {fileID: 2100000, guid: c6ba82ad055f84a20ac00c62788ec47d, type: 2}
     - target: {fileID: 100000, guid: 9b36e8c27a5df46eebf6d9226c9689d4, type: 3}
       propertyPath: m_IsActive
@@ -30515,7 +30515,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: cc9010ffc7eb144cd81f76d972590793, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -30624,7 +30624,7 @@ RenderTexture:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: 
+  m_Name:
   m_ImageContentsHash:
     serializedVersion: 2
     Hash: 00000000000000000000000000000000
@@ -30711,7 +30711,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: bbb8d75ab81934ce5a6da4bbac218f9f, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
@@ -30811,8 +30811,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 61f0ef4c96b3d48e397a8fb8ae3b3b9a, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   orientationRoot: {fileID: 1019712151}
   spawnPoint: {fileID: 0}
   menu: {fileID: 1414522549}
@@ -31229,7 +31229,7 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: 17bb3b67f2ef440ae8ab943a6f864d07, type: 2}
-  m_SubsetIndices: 
+  m_SubsetIndices:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
   m_ReflectionProbeUsage: 1
