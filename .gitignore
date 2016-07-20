@@ -1,8 +1,18 @@
 # Unity generated
+**/[Bb]uilds/**
+**/[Tt]emp/**
+**/[Ll]ibrary/**
+**/[Oo]bj/**
+builds/
 Builds/
-Temp/
 Library/
+library/
+Temp/
+temp/
 obj/
+Obj/
+
+*.meta
 
 # Visual Studio / MonoDevelop generated
 *.csproj

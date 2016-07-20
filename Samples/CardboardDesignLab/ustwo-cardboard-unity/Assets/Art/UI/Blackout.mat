@@ -25,11 +25,15 @@ Material:
     m_Floats:
       data:
         first:
-          name: _Environment
+          name: _Stencil
         second: 0
       data:
         first:
-          name: _Stencil
+          name: _StencilComp
+        second: 8
+      data:
+        first:
+          name: _StencilOp
         second: 0
       data:
         first:
@@ -41,16 +45,12 @@ Material:
         second: 255
       data:
         first:
-          name: _StencilComp
-        second: 8
-      data:
-        first:
-          name: _StencilOp
-        second: 0
-      data:
-        first:
           name: _ColorMask
         second: 15
+      data:
+        first:
+          name: _Environment
+        second: 0
     m_Colors:
       data:
         first:
